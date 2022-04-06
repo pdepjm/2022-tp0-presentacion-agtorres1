@@ -10,8 +10,5 @@ Hola, me llamo Agustina y soy de Barracas. Tengo muchas expectativas en esta mat
 - No importa cuando leas esto, tengo hambre. 
 
 
-
-![fotoo](https://user-images.githubusercontent.com/102539822/162079344-b5260ec3-c8a5-487f-822d-586427091d16.jpeg)
-
-
- ![gato](https://user-images.githubusercontent.com/102539822/162077340-04cd7b55-5789-4358-98cd-1b84175e3536.jpeg)
+![image](https://user-images.githubusercontent.com/102539822/162079806-083955b9-8f33-49d1-b311-d956b10162df.png)
+! [imagen] (https://user-images.githubusercontent.com/102539822/162079764-ceb49814-885e-4885-837c-4eea31051e07.png)
