@@ -9,4 +9,7 @@ Hola, me llamo Agustina y soy de Barracas. Tengo muchas expectativas en esta mat
 - Amo los   ga tos.  
 - No importa cuando leas esto, tengo hambre. 
 
+![image](https://user-images.githubusercontent.com/102539822/162080023-4a85f234-bfa1-41fc-a8a2-2f250c5849a9.png)
+
+
 ![image](https://user-images.githubusercontent.com/102539822/162079934-47af3d82-d9a9-4ed8-b939-6f14cb0c488c.png)
